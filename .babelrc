@@ -1,0 +1,3 @@
+{
+    "preset":["react","eslint","stage-2"]
+}
