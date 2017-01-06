@@ -1,0 +1,15 @@
+{
+  "name": "learn-fullstack-js-handson",
+  "version": "1.0.0",
+  "description": "This project is to learn the full stack JS using React, Node Js and Mongo DB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/DevGuru1993/learn-fullstack-js.git)"
+  },
+  "author": "Guruprasath",
+  "license": "MIT"
+}
